@@ -49,10 +49,3 @@ public class AbstractFactoryBombDemo {
         BlastIntensity3.blast();
     }
 }
-
-/*
-Scanner sc = new Scanner(System.in);
-int i = sc.nextInt();
-
-To retrieve a username I would probably use sc.nextLine().
- */
